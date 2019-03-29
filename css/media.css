@@ -1,0 +1,830 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.logo {
+    	width: 130px;
+	}
+	.menu {
+    	margin-top: 2px;
+	}
+	.menu ul li a{
+		font-size: 16px;
+	}
+	.dropdown_menu {
+    	margin-right: 101px;
+	}
+	.icon_hover {
+    	font-size: 14px;
+	}
+	.dropdown_menu a{
+		font-size: 14px;
+	}
+	.search{
+		height: 30px;
+    	font-size: 14px;
+	}
+	.search_button{
+		height: 30px;
+    	padding: 0px 8px;
+    	font-size: 14px;
+    	margin: 5px 27px;
+	}
+	/*header end*/
+	/*bannar start*/
+	#bannar{
+		background-color: white
+	}
+	.bannar_text h2{
+        padding-top: 70px;
+    	padding-bottom: 60px;
+    	font-size: 26px;
+	}
+	.bannar_text p{
+    	font-size: 8px;
+	}
+	.bannar_text i{
+		font-size: 17px;
+	}
+	/*bannar end*/
+	/*Kids_1 start*/
+	.common_title {
+    	margin-top: 24px;
+	}
+	.common_title h2{
+		font-size: 22px;
+		margin: 9px 0px;
+	}
+	.common_title hr{
+		width: 174px;
+	}
+	.kids_1_content {
+    	margin-top: 24px;
+	}
+	.kids_1_content h2{
+		font-size: 19px;	}
+	.kids_1_content hr{
+		width: 110px;
+	}
+	.kids_1_content p {
+        font-size: 12px;
+    }
+	.kids_1_content a img {
+    	width: 54%;
+	}
+	/*Kids_1 end*/
+	/*kids_2 start*/
+	#kids_2 {
+        margin-top: 44px;
+	}
+	.content{
+    	margin: 36px 0px 21px;
+	}
+	.content img{
+    	width: 96px;
+	}
+	.content p {
+    	font-size: 18px;
+    	margin-bottom: 33px;
+	}
+	/*kids_2 end*/
+	/*featured courses start*/
+	.margin_bottom_2{
+		margin-bottom: 0px !important;
+	}
+	.card{
+		margin-top: 31px;
+	}
+	.courses_button button {
+    	height: 41px;
+    	margin: 34px 0px 18px;
+	}
+	.courses_button button span {
+    	font-size: 41px;
+    	bottom: 20px;
+	}
+	/*featured courses end*/
+	/*Memorable memory start*/
+	.view_more {
+    	margin: 24px 62px 34px;
+    	width: 166px;
+	}
+	/*Memorable memory end*/
+	/*kids support start*/
+	#kids_support {
+    	padding: 34px 0px;
+	}
+	/*support single start*/
+	.support_single {
+    	text-align: center;
+	}
+	/*content start*/
+	.support_img img {
+    	margin-bottom: 4px;
+	}
+	.support_content {
+    	padding: 0px 24px;
+   	}
+	.support_content a p {
+        margin: 0px 0px 11px;
+        font-size: 12px;
+	}
+	.support_content p {
+    	font-size: 12px;
+	}
+	.support_text h2 {
+    	font-size: 22px;
+	}
+	.support_text span {
+    	font-size: 12px;
+	}
+	.support_text p {
+    	font-size: 12px;
+	}
+	.support_text h3 {
+    	font-size: 16px;
+	}
+	/*content end*/
+	/*support single end*/
+	/*kids support end*/
+	/*Education Work fees start*/
+	#education_work{
+		background-color: #6e6e6e;
+	}
+	.common_title_2 {
+    	margin-top: 24px;
+	}
+	.common_title_2 h2{
+		font-size: 22px;
+		margin: 9px 0px;
+	}
+	.common_title_2 hr{
+		width: 174px;
+	}
+	.work_single h2{
+		font-size: 30px;
+	}
+	.work_single p{
+		font-size: 17px;
+	}
+	.work_img img{
+		width: 48%;
+	}
+	/*Education Work fees end*/
+	/*Events and news start*/
+	#events_news {
+    	padding: 32px 0px;
+	}
+	.common_title_3 h2 {
+    	font-size: 26px;
+    	text-align: center;
+	}
+	.common_title_3 hr {
+       	width: 191px;
+    	margin: 0px auto;
+	}
+	.event {
+       	text-align: center;
+	}
+	.event_img img {
+    	width: 95px;
+	}
+	.event_text {
+    	margin-top: 4px;
+  	}
+	.event_text h2 {
+        font-size: 21px;
+	}
+	.event_text p {
+    	font-size: 13px;
+	}
+	.event_text p span {
+        font-size: 13px;
+	}
+	.event_text p span i {
+        font-size: 13px;
+	}
+	.newses {
+    	margin-top: 35px;
+	}
+	.news {
+    	text-align: center;
+	}
+	.news_img img {
+    	width: 178px;
+	}
+	.news_text {
+    	margin-top: 21px;
+	}
+	.news_text h2 {
+    	font-size: 21px;
+	}
+	.news_text span {
+    	font-size: 13px;
+	}
+	.news_text p {
+    	font-size: 13px;
+	}
+	/*Events and news end*/
+	/*contact start*/
+	#contact{
+		background-color: white;
+		padding: 38px 0px 26px;
+	}
+	.part_1 {
+    	text-align: center;
+    	padding: 0px 37px;
+	}
+	.part_1 p {
+    	font-size: 13px;
+	}
+	.part_2 {
+    	margin-top: 35px;
+    	text-align: center;
+    	padding: 0px 35px;
+	}
+	.part_3 {
+    	margin-top: 35px;
+    	text-align: center;
+    	padding: 0px 53px;
+	}
+	.part_3 p a {
+    	font-size: 13px;
+    }
+	.part_4 {
+    	margin-top: 35px;
+    	text-align: center;
+    	padding: 0px 45px;
+	}
+	.part_4 p {
+    	font-size: 13px;
+	}
+	.p_r_0 {
+    	padding: 7px;
+	}
+	.gallery img {
+    	margin-top: 0px;
+	}
+	.com_dot h2 {
+    	font-size: 21px;
+	}
+	.com_dot hr{
+		margin: 0px auto;
+		width: 100px;
+		margin-bottom: 11px;
+	}
+	/*contact end*/
+	/*footer start*/
+	.footer_text ul {
+    	text-align: center;
+	}
+	.footer_text ul li{
+    	font-size: 9px;
+	}
+	.footer_text ul li a{
+    	font-size: 9px;
+	}
+	.copyright_text p{
+    	font-size: 9px;
+    	text-align: center;
+	}
+	/*footer end*/
+	/*click_to_top start*/
+	.click_to_top{
+	    position: absolute;
+    	bottom: 92px;
+    	right: 6px;
+    }
+	.click_to_top a img{
+		width: 33px;
+	}
+	/*click_to_top end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	.logo{
+		width: 180px;
+	}
+	.menu {
+    	margin-top: 7px;
+	}
+	.menu ul li a{
+		font-size: 16px;
+	}
+	.dropdown_menu{
+		margin-right: 321px;	
+	}
+	.icon_hover{
+		font-size: 15px;
+	}
+	.dropdown_menu a{
+		font-size: 15px;
+	}
+	.search{
+		height: 31px;
+		font-size: 15px;
+	}
+	.search_button{
+		height: 31px;
+    	padding: 0px 8px;
+    	font-size: 15px;
+    	margin: 5px 26px;
+	}
+	/*header end*/
+	/*bannar start*/
+	#bannar{
+		background-color: white
+	}
+	.bannar_text h2{
+	    padding-top: 127px;
+    	padding-bottom: 103px;
+    	font-size: 30px;
+    }
+    .bannar_text p {
+    	font-size: 10px;
+	}
+	.bannar_text i {
+    	font-size: 17px;
+	}
+	/*bannar end*/
+	/*kids_1 start*/
+	.common_title h2{
+		font-size: 25px;
+	}
+	.common_title hr{
+		width: 215px;
+	}
+	.kids_1_content{
+    	margin-top: 28px;
+   	}
+	.kids_1_content h2{
+		font-size: 23px;
+	}
+	.kids_1_content hr{
+		width: 132px;
+	}
+	.kids_1_content a{
+    	margin-top: 15px;
+	}
+	.kids_1_content a img{
+    	width: 201px;
+    }
+	.kids_1_pic img{
+    	margin-top: 24px;
+	}
+	/*kids_1 end*/
+	/*kids_2 start*/
+	.content{
+    	margin: 36px 0px 21px;
+	}
+	.kids_2_position {
+    	width: 87px;
+    	bottom: 93px;
+    	left: 74px;
+	}
+	.content img{
+    	width: 96px;
+	}
+	.content p {
+    	font-size: 18px;
+    	margin-bottom: 39px;
+	}
+	/*kids_2 end*/
+	/*featured courses start*/
+	.margin_bottom_2{
+		margin-bottom: 0px !important;
+	}
+	.card{
+		margin-top: 31px;
+	}
+	/*featured courses end*/
+	/*Memorable memory start*/
+	.view_more {
+    	width: 182px;
+    	margin: 35px 0px;
+	}
+	/*Memorable memory end*/
+	/*kids support start*/
+	#kids_support {
+    	padding: 34px 0px;
+	}
+	/*support single start*/
+	.support_single {
+    	text-align: center;
+	}
+	/*content start*/
+	.support_img img {
+    	margin-bottom: 4px;
+	}
+	.support_content {
+    	padding: 0px 61px;
+   	}
+
+   	.support_content a p {
+        margin: 0px 0px 11px;
+	}
+	/*content end*/
+	/*support single end*/
+	/*kids support end*/
+	/*education work fees start*/
+	#education_work{
+		background-color: #6e6e6e;
+	}
+	.common_title_2 h2{
+		font-size: 25px;
+	}
+	.common_title_2 hr{
+		width: 215px;
+	}
+	.work_single h2{
+		font-size: 40px;
+	}
+	.work_single p{
+		font-size: 18px;
+	}
+	.work_img img{
+		width: 78%;
+	}
+	/*education work fees end*/
+	/*Events and news start*/
+	.event_text {
+    	margin-top: 19px;
+	}
+	.event {
+    	margin-top: 21px;
+	}
+	.newses {
+    	margin-top: 35px;
+	}
+	.news {
+    	margin-top: 22px;
+	}
+	.news_text {
+    	margin-top: 24px;
+	}
+	/*Events and news end*/
+	/*contact start*/
+	#contact{
+		background-color: white;
+		padding: 44px 0px 32px;
+	}
+	.part_3 {
+    	margin-top: 35px;
+	}
+	.part_4 {
+    	margin-top: 35px;
+	}
+	.p_r_0 {
+    	padding: 7px;
+	}
+	.gallery img {
+    	margin-top: 0px;
+	}
+	.orrang hr {
+    	margin-bottom: 22px;
+	}
+	/*contact end*/
+	/*footer start*/
+	.footer_text ul li{
+    	font-size: 11px;
+	}
+	.footer_text ul li a{
+    	font-size: 11px;
+	}
+	.copyright_text p{
+    	font-size: 9px;
+    	margin: 5px 0px;
+	}
+	/*footer end*/
+	/*click_to_top start*/
+	.click_to_top{
+    	bottom: 83px;
+    	right: 2px;
+    }
+	.click_to_top a img{
+	    width: 29px;
+	}
+	/*click_to_top end*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.menu {
+    	margin-top: 9px;
+	}
+	.dropdown_menu{
+		margin-right: 501px;
+	}
+	/*header end*/
+	/*bannar start*/
+	#bannar{
+		background-image: url(../images/bannar.png);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+	.bannar_text h2{
+	    padding-top: 130px;
+    	padding-bottom: 170px;
+    	font-size: 40px;
+    }
+    .bannar_text p{
+    	font-size: 11px;
+    }
+    .bannar_text i{
+    	font-size: 20px;
+    }
+	/*bannar end*/
+	/*kids_1 start*/
+	.kids_1_content h2{
+		font-size: 23px;
+	}
+	.kids_1_content hr{
+		width: 132px;
+	}
+	.kids_1_content a img {
+    	width: 54%;
+	}
+	.kids_1_pic img {
+    	margin-top: 38px;
+	}
+	/*kids_1 end*/
+	/*kids_2 start*/
+	.content img{
+    	width: 96px;
+	}
+	.kids_2_position {
+    	width: 87px;
+    	bottom: 93px;
+    	left: 29px;
+	}
+	.content p{
+    	font-size: 18px;
+	}
+	/*kids_2 end*/
+	/*featured courses start*/
+	.card{
+		margin-top: 41px;
+	}
+	/*featured courses end*/
+	/*Memorable Moments start*/
+	.view_more {
+    	width: 225px;
+    	margin: 36px 0px;
+	}
+	/*Memorable Moments end*/
+	/*kids support start*/
+	#kids_support {
+    	padding: 2px 0px 55px;
+	}
+	/*content start*/
+	.support_content {
+    	padding: 21px 0px 0px;
+	}
+   	.support_text {
+    	margin: 25px 0px;
+	}
+	/*content end*/
+	/*kids support end*/
+	/*Education work fees start*/
+	#education_work{
+    	background-image: url(../images/education_work.jpg);
+    	background-size: cover;
+    	background-position: center;
+    	background-repeat: no-repeat;
+	}
+	.work_single h2{
+		font-size: 40px;
+	}
+	.work_single p{
+		font-size: 18px;
+	}
+	.work_img img{
+		width: 94%;
+	}
+	/*Education work fees end*/
+	/*Events and news start*/
+	#events_news {
+    	padding: 38px 0px;
+	}
+	.event_text {
+    	margin-top: 22px;
+	}
+	.event {
+    	margin-top: 21px;
+	}
+	.newses {
+    	margin-top: 35px;
+	}
+	.news {
+    	margin-top: 22px;
+	}
+	.news_text {
+    	margin-top: 52px;
+	}
+	/*Events and news end*/
+	/*contact start*/
+	#contact{
+		background-image: url(../images/info_bg.png);
+		background-size: cover;
+    	background-position: center;
+    	background-repeat: no-repeat;
+		padding-top: 187px;
+	}
+	.part_1 {
+    	margin: 47px 0px;
+	}
+	.part_2 {
+        margin: 47px 0px;
+	}
+	.part_3 {
+        margin: 47px 0px;
+	}
+	.part_4 {
+        margin: 47px 0px;
+	}
+	.p_r_0 {
+    	padding: 7px;
+	}
+	.gallery img {
+    	margin-top: 0px;
+    	width: 100%;
+	}
+	.orrang hr {
+    	margin-bottom: 22px;
+	}
+	/*contact end*/
+	/*footer start*/
+	.footer_text ul li{
+    	font-size: 15px;
+	}
+	.footer_text ul li a{
+    	font-size: 15px;
+	}
+	.copyright_text p{
+    	font-size: 13px;
+    	margin: 2px 0px;
+	}
+	/*footer end*/
+	/*click_to_top start*/
+	.click_to_top{
+    	bottom: 87px;
+    	right: 3px;
+    }
+	.click_to_top a img{
+	    width: 33px;
+	}
+	/*click_to_top end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*bannar start*/
+	#bannar{
+		background-image: url(../images/bannar.png);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+	.bannar_text h2{
+	    padding-top: 190px;
+    	padding-bottom: 230px;
+	}
+	/*bannar end*/
+	/*kids_2 start*/
+	.kids_2_position {
+        bottom: 110px;
+    	left: 53px;
+	}
+	/*kids_2 end*/
+	/*featured courses start*/
+	.card-block{
+		padding: 16px 0px;
+	}
+	.margin_bottom_2 {
+    	margin-bottom: 0px !important;
+	}
+	/*featured courses end*/
+	/*Memorable Moments start*/
+	.view_more {
+    	width: 226px;
+    	margin: 36px 0px 60px;
+	}
+	/*Memorable Moments end*/
+	/*kids support start*/
+	#kids_support {
+    	padding: 18px 0px 39px;
+	}
+	/*content start*/
+	.support_content {
+    	padding: 0px 222px;
+	}
+	.support_text h2 {
+    	margin-bottom: 0px;
+	}
+	.support_text hr {
+    	margin: 5px 0px;
+	}
+	.support_text {
+    	padding: 0px;
+	}
+	/*content end*/
+	/*kids support end*/
+	/*Education work fees start*/
+	#education_work{
+    	background-image: url(../images/education_work.jpg);
+    	background-size: cover;
+    	background-position: center;
+    	background-repeat: no-repeat;
+	}
+	/*Education work fees end*/
+	/*contact start*/
+	#contact{
+		background-image: url(../images/info_bg.png);
+		background-size: cover;
+    	background-position: center;
+    	background-repeat: no-repeat;
+		padding-top: 131px;
+	}
+	.part_1 {
+    	margin: 31px 0px;
+	}
+	.part_2 {
+    	margin: 31px 0px;
+	}
+	.part_3 {
+    	margin: 31px 0px;
+	}
+	.part_4 {
+    	margin: 31px 0px;
+	}
+	.padding {
+    	padding: 0px 3px;
+	}
+	.p_r_0 {
+    	padding: 7px;
+	}
+	.gallery img {
+    	margin-top: 0px;
+	}
+	.orrang hr {
+    	margin-bottom: 22px;
+	}
+	/*contact end*/
+	/*click_to_top start*/
+	.click_to_top{
+    	bottom: 107px;
+    	right: 1px;
+    }
+	.click_to_top a img{
+	    width: 28px;
+	}
+	/*click_to_top end*/
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	/*bannar start*/
+	#bannar{
+		background-image: url(../images/bannar.png);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+	.bannar_text h2{
+	    padding-top: 250px;
+    	padding-bottom: 280px;	
+    }
+	/*bannar end*/
+	/*Education work fees start*/
+	#education_work{
+    	background-image: url(../images/education_work.jpg);
+    	background-size: cover;
+    	background-position: center;
+    	background-repeat: no-repeat;
+	}
+	/*Education work fees end*/
+	/*contact start*/
+	#contact{
+		background-image: url(../images/info_bg.png);
+		background-size: cover;
+    	background-position: bottom;
+    	background-repeat: no-repeat;
+		padding-top: 173px;
+	}
+	.part_1 {
+    	margin: 77px 0px;
+	}
+	.part_2 {
+    	margin: 77px 0px;
+	}
+	.part_3 {
+    	margin: 77px 0px;
+	}
+	.part_4 {
+    	margin: 77px 0px;
+	}
+	/*contact end*/
+}
